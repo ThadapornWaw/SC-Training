@@ -1,6 +1,8 @@
 (() => {
   'use strict';
 
+  console.log('JS Loaded');
+
   const API_KEY = 'AIzaSyAqenlKZmlFUaqvJLEOdEMy8G5rSP1PVtc';
   const CALENDAR_ID = 'en.th#holiday@group.v.calendar.google.com';
   const holiday = [];
