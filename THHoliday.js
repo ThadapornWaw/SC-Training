@@ -2,7 +2,7 @@
   'use strict';
   console.log('JS Loaded');
 
-  const API_KEY = 'AIzaSyAqenlKZmlFUaqvJLEOdEMy8G5rSP1PVtc';
+  const API_KEY = 'AIzaSyBYMeCUIRSLlRHZOIoie8zI35Bx-FqcOg8';
   const CALENDAR_ID = 'en.th#holiday@group.v.calendar.google.com';
   const holiday = [];
   let isHolidayLoaded = false; // flag เช็คว่าโหลดวันหยุดเสร็จหรือยัง
